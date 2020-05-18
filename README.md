@@ -7,5 +7,6 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/vertical-center-console.png)
 
 Requirements:
-[Windshield phone mount with](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
->= iPhone XR
+* [Windshield phone mount with](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* \>= iPhone XR
+
