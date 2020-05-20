@@ -10,7 +10,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 
 ## Vision System Results:
 Updated 05/20/2020<br/>
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)\
+![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## References
 [Digging into Self-Supervised Monocular Depth Prediction, by Clément Godard, Oisin Mac Aodha, Michael Firman and Gabriel J. Brostow](https://github.com/nianticlabs/monodepth2)
