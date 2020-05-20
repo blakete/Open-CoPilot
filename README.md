@@ -11,7 +11,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 
 ## Results: Updated 05/20/2020
 
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/initial-results.gif)
+![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/figures/initial-results.gif)
 
 
 
