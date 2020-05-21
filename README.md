@@ -14,7 +14,7 @@ Depth perception:<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## References
-[Notes](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
+[Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
 
 [Digging into Self-Supervised Monocular Depth Prediction, by Clément Godard, Oisin Mac Aodha, Michael Firman, and Gabriel J. Brostow](https://github.com/nianticlabs/monodepth2)
 
