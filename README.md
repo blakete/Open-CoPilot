@@ -1,4 +1,4 @@
-# Open-CoPilot
+# Open CoPilot
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
 ### Requirements:
