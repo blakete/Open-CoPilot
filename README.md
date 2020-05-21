@@ -10,7 +10,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 
 ## Vision System Results
 Updated 05/20/2020<br/>
-Depth perception:<br/>
+Depth perception (iPhone XR):<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## References
