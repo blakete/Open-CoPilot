@@ -1,7 +1,7 @@
 # Open CoPilot
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
-### Requirements:
+### Requirements
 * \>= A12 or \>= iPhone XR
 * [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [Driving datasets here](https://drive.google.com/drive/folders/11yfNjvbjhFcDX8XGV5KuQgLBxKy40J9Y?usp=sharing)
