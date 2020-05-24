@@ -15,7 +15,7 @@ Depth perception:<br/>
 * [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [Driving datasets here](https://bit.ly/3g9T9Ak)
 
-iPhone mounted in car:
+iPhone mounted in car:<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/phone-mounted-vertical.png)
 
 ## References
