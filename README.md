@@ -16,7 +16,6 @@ Depth perception:<br/>
 * [Driving datasets here](https://bit.ly/3g9T9Ak)
 
 iPhone mounted in car:
-
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/phone-mounted-vertical.png)
 
 ## References
