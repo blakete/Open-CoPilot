@@ -8,12 +8,14 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/phone-mounted-vertical.png)
 
-## Vision System Results
-Updated 05/20/2020<br/>
-Depth perception (iPhone XR):<br/>
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
+## Vision System Results (iPhone XR)
+Updated 05/24/2020<br/>
 
+Object detection and localization:<br/>
 [![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/mounted-demo.png)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
+
+Depth perception:<br/>
+![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## References
 [Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
