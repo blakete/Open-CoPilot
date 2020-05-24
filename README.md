@@ -12,7 +12,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 Updated 05/24/2020<br/>
 
 Object detection and localization:<br/>
-[![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/mounted-demo.png)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
+[![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/click-to-play-demo.png)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
 
 Depth perception:<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
