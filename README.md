@@ -13,7 +13,7 @@ Updated 05/20/2020<br/>
 Depth perception (iPhone XR):<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
-[![Driving Preview](http://img.youtube.com/vi/mBYH2uKsEzM/1.jpg)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
+[![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/mounted-demo.png)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
 
 ## References
 [Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
