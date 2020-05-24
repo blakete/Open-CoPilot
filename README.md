@@ -1,13 +1,6 @@
 # Open CoPilot
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
-### Requirements
-* \>= Apple A12 or \>= iPhone XR
-* [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-* [Driving datasets here](https://bit.ly/3g9T9Ak)
-
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/phone-mounted-vertical.png)
-
 ## Vision System Results (iPhone XR)
 Updated 05/24/2020<br/>
 
@@ -16,6 +9,14 @@ Object detection and localization:<br/>
 
 Depth perception:<br/>
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
+
+### Requirements
+* \>= Apple A12 or \>= iPhone XR
+* [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* [Driving datasets here](https://bit.ly/3g9T9Ak)
+
+iPhone mounted in car:
+![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/phone-mounted-vertical.png)
 
 ## References
 [Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
