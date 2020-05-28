@@ -18,7 +18,7 @@ Depth perception:<br/>
 * \>= Apple A12 or \>= iPhone XR
 * [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * Waze App
-* [Open CoPilot App](https://bit.ly/3g9T9Ak)
+* [Open CoPilot App (coming soon!)](https://bit.ly/3g9T9Ak)
 
 
 iPhone mounted in car:<br/>
