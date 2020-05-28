@@ -2,9 +2,9 @@
 # Open CoPilot
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
-![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.png)
+![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
 
-![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.png)
+![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
 
 ## Vision System Results (iPhone XR)
