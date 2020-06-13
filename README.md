@@ -20,7 +20,7 @@
 
 ### Depth perception
 [Demo Video](https://youtu.be/D7U4fNIiq00)
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
+[![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)](https://youtu.be/D7U4fNIiq00)
 
 ## Requirements
 * \>= Apple A12 or \>= iPhone XR
