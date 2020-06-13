@@ -7,6 +7,8 @@
 - [Object detection and localization](#object-detection-and-localization)
 - [Single Camera Depth Perception](#depth-perception)
 - [Human Activity Recognition Dataset](https://bit.ly/3g4Ize1)
+</br>
+</br>
 
 ![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
 
