@@ -15,9 +15,11 @@
 
 ## Vision System Results (iPhone XR)
 ### Object detection and localization
+[Demo Video](https://youtu.be/mBYH2uKsEzM)
 [![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/IMG_9662.jpeg)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
 
 ### Depth perception
+[Demo Video](https://youtu.be/D7U4fNIiq00)
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## Requirements
