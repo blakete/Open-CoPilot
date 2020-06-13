@@ -2,16 +2,22 @@
 # Open CoPilot
 ### Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
+## Table of Contents
+- [Vision System Results](#vision-System-results-(iphone-xr))
+- [Object detection and localization](#object-detection-and-localization)
+- [Single Camera Depth Perception](#depth-perception)
+- [Human Activity Recognition Dataset](https://bit.ly/3g4Ize1)
+
 ![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
 
 ![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
 
 ## Vision System Results (iPhone XR)
-Object detection and localization:<br/>
+### Object detection and localization
 [![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/IMG_9662.jpeg)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
 
-Depth perception:<br/>
+### Depth perception
 ![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)
 
 ## Requirements
@@ -19,10 +25,6 @@ Depth perception:<br/>
 * [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * Waze App
 * [Open CoPilot App (coming soon!)](https://bit.ly/3g9T9Ak)
-
-
-iPhone mounted in car:<br/>
-![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/pictures/windshield-mount.png)
 
 ## References
 [Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
