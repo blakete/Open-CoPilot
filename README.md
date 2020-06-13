@@ -7,6 +7,7 @@
 - [Object detection and localization](#object-detection-and-localization)
 - [Single Camera Depth Perception](#depth-perception)
 - [Open CoPilot Dataset](https://bit.ly/3g9T9Ak)
+- [References](#references)
 </br>
 
 ![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
