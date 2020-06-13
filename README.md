@@ -6,14 +6,13 @@
 - [Vision System Results](#vision-System-results-(iphone-xr))
 - [Object detection and localization](#object-detection-and-localization)
 - [Single Camera Depth Perception](#depth-perception)
-- [Human Activity Recognition Dataset](https://bit.ly/3g4Ize1)
+- [Open CoPilot Dataset](https://bit.ly/3g4Ize1)
 </br>
 </br>
 
 ![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
 
 ![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
-
 
 ## Vision System Results (iPhone XR)
 ### Object detection and localization
