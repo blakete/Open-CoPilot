@@ -3,7 +3,7 @@
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
 
 ## Table of Contents
-- [Vision System Results](#vision-System-results-(iphone-xr))
+- [Vision System Results](#Vision-System-Results-on-iPhone-XR)
 - [Object detection and localization](#object-detection-and-localization)
 - [Single Camera Depth Perception](#depth-perception)
 - [Open CoPilot Dataset](https://bit.ly/3g9T9Ak)
@@ -14,7 +14,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 
 ![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
-## Vision System Results (iPhone XR)
+## Vision System Results on iPhone XR
 ### Object detection and localization
 [Demo Video](https://youtu.be/mBYH2uKsEzM)
 [![Driving Preview](https://github.com/blakete/Open-CoPilot/blob/master/pictures/IMG_9662.jpeg)](https://youtu.be/mBYH2uKsEzM "Open CoPilot Preview")
