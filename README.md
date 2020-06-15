@@ -7,6 +7,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 - [Object detection and localization](#object-detection-and-localization)
 - [Single Camera Depth Perception](#depth-perception)
 - [Open CoPilot Dataset](https://bit.ly/3g9T9Ak)
+- [Requirements](#requirements)
 - [References](#references)
 </br>
 
