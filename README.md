@@ -32,11 +32,10 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 ![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
 ## References
-[Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
 
 [Digging into Self-Supervised Monocular Depth Prediction, by Clément Godard, Oisin Mac Aodha, Michael Firman, and Gabriel J. Brostow](https://github.com/nianticlabs/monodepth2)
 
 [YOLOv4: Optimal Speed and Accuracy of Object Detection, by Alexey Bochkovskiy, Chien-Yao Wang, and Hong-Yuan Mark Liao](https://arxiv.org/abs/2004.10934)
 
-
+[Running notes...](https://docs.google.com/document/d/1BoW7_TKAKsI0n-vwv7Fziyctg6jCQ8d4w3IcRLpaUX8/edit?usp=sharing)
 
