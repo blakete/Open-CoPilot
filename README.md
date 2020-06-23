@@ -9,7 +9,6 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 - [Open CoPilot Dataset](https://bit.ly/3g9T9Ak)
 - [Requirements](#requirements)
 - [References](#references)
-</br>
 
 ## Vision System Results on iPhone XR
 ### Object detection and localization
@@ -25,6 +24,7 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 * [Stable windshield phone mount](https://www.amazon.com/gp/product/B076B27WP6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * Waze App
 * [Open CoPilot App (coming soon!)](https://bit.ly/3g9T9Ak)
+</br>
 
 ![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
 
