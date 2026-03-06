@@ -1,6 +1,11 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 # Open CoPilot
+
 Open source, AI powered, mapping, navigation, and driving co-pilot. Making your drive hands free, safe, and enjoyable.
+
+![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
+
+![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
 ## Table of Contents
 - [Requirements](#requirements)
@@ -24,12 +29,6 @@ Open source, AI powered, mapping, navigation, and driving co-pilot. Making your 
 ### Depth perception
 [Demo Video](https://youtu.be/D7U4fNIiq00)<br/>
 [![sample figure](https://github.com/blakete/Open-CoPilot/blob/master/initial-results.gif)](https://youtu.be/D7U4fNIiq00)
-
-</br>
-
-![figure 1](https://github.com/blakete/Open-CoPilot/blob/master/pictures/1.jpeg)
-
-![figure 2](https://github.com/blakete/Open-CoPilot/blob/master/pictures/2.jpeg)
 
 ## References
 
